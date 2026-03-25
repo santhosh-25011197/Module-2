@@ -37,7 +37,10 @@ while temp>0:
 
         print("The given number {} is not a palindrome".format(num))
 
+
 ## Output
+
+
 
 
 <img width="563" height="126" alt="image" src="https://github.com/user-attachments/assets/3a7bcede-3c77-42ee-8d32-ddd305377155" />
